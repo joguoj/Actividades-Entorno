@@ -1,6 +1,6 @@
 # Actividades de Entorno 💻
 
-Bienvenido a mi repositorio de **Actividades de Entorno**. Aquí encontrarás los ejercicios prácticos de programación realizados durante el curso, organizados por bloques. 
+Bienvenido a nuestro repositorio de **Actividades de Entorno**. Aquí encontrarás los ejercicios prácticos de programación realizados durante el curso, organizados por bloques. 
 
 Cada actividad incluye tanto el **código fuente** (comprimido en `.zip`) como el **archivo ejecutable** de Java (`.jar`) para que se pueda probar directamente.
 
@@ -34,3 +34,15 @@ Para probar cualquiera de las actividades, es necesario tener **Java** instalado
 
 ```bash
 java -jar nombre_del_archivo.jar
+```
+
+---
+
+## Realizado por:
+**Álvaro Caro Fernández** - [@AlvaroCaroFdez](https://github.com/AlvaroCaroFdez)
+
+**José Gutiérrez Ojedo** - [@joguoj](https://github.com/joguoj)
+
+**Lucía Gamaza Pajuelo** - [@lgampaj532](https://github.com/lgampaj532)
+
+**Pablo Garrucho Azcárate** - [@pgarazc568](https://github.com/pgarazc568)
